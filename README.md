@@ -7,5 +7,5 @@ Assignment turned in by
 - Jon Petter Wiig, s364697
 
 # Comments for examiner
-- This oblig was livecoded, therefor the lack of contributors and commits.
+- This oblig was livecoded, explaining the lack of contributors and commits.
 - The Lato font was added to the fonts folder. Lato is not a font included by default with newer machines.
