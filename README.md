@@ -5,3 +5,6 @@ Assignment turned in by
 - s364673
 - Duc Tan Vo, s364733
 - Jon Petter Wiig, s364697
+
+# Comments for examiner
+The Lato font was added to the fonts folder. Lato is not a font included by default with newer machines.
